@@ -95,12 +95,11 @@ for x in range(10):
 	uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {l}'
 
 		
-#------------[ＧＨＡＳＳＡＮ ]---------------#
+#------------[ＧＨＡＳＳＡＮ]---------------#
 id,id2,loop,ok,cp,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[],[],[]
 cokbrut=[]
 pwpluss,pwnya=[],[]
-#------------[ 
-ＧＨＡＳＳＡＮ ]--------------#
+
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
 H = '\x1b[1;92m'
